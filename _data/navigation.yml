@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: Math
+  link: /math
+- name: Project
+  link: /project
+- name: Code
+  link: /code
+- name: Links
+  link: /links
+- name: FAQs
+  link: /faqs
