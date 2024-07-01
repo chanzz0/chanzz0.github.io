@@ -4,23 +4,23 @@ title: Algebraic Geometry
 url: /AG/
 ---
 
-Here I quote from a Wikipedia account of algebraic geometry. 
+Here I quote from a Wikipedia account of algebraic geometry.
 
-**Algebraic geometry** is a branch of mathematics, classically studying zeros of multivariate polynomials. Modern algebraic geometry is based on the use of abstract algebraic techniques, mainly from commutative algebra, for solving geometrical problems about these sets of zeros. 
+**Algebraic geometry** is a branch of mathematics, classically studying zeros of multivariate polynomials. Modern algebraic geometry is based on the use of abstract algebraic techniques, mainly from commutative algebra, for solving geometrical problems about these sets of zeros.
 
-The fundamental objects of study in algebraic geometry are algebraic varieties, which are geometric manifestations of solutions of systems of polynomial equations. Examples of the most studied classes of algebraic varieties are: plane algebraic curves, which include lines, circles, parabolas, ellipses, hyperbolas, cubic curves like elliptic curves, and quartic curves like lemniscates and Cassini ovals. A point of the plane belongs to an algebraic curve if its coordinates satisfy a given polynomial equation. Basic questions involve the study of the points of special interest like the singular points, the inflection points and the points at infinity. More advanced questions involve the topology of the curve and relations between the curves given by different equations. 
+The fundamental objects of study in algebraic geometry are algebraic varieties, which are geometric manifestations of solutions of systems of polynomial equations. Examples of the most studied classes of algebraic varieties are: plane algebraic curves, which include lines, circles, parabolas, ellipses, hyperbolas, cubic curves like elliptic curves, and quartic curves like lemniscates and Cassini ovals. A point of the plane belongs to an algebraic curve if its coordinates satisfy a given polynomial equation. Basic questions involve the study of the points of special interest like the singular points, the inflection points and the points at infinity. More advanced questions involve the topology of the curve and relations between the curves given by different equations.
 
-Algebraic geometry occupies a central place in modern mathematics and has multiple conceptual connections with such diverse fields as complex analysis, topology and number theory. Initially a study of systems of polynomial equations in several variables, the subject of algebraic geometry starts where equation solving leaves off, and it becomes even more important to understand the intrinsic properties of the totality of solutions of a system of equations, than to find a specific solution; this leads into some of the deepest areas in all of mathematics, both conceptually and in terms of technique. 
+Algebraic geometry occupies a central place in modern mathematics and has multiple conceptual connections with such diverse fields as complex analysis, topology and number theory. Initially a study of systems of polynomial equations in several variables, the subject of algebraic geometry starts where equation solving leaves off, and it becomes even more important to understand the intrinsic properties of the totality of solutions of a system of equations, than to find a specific solution; this leads into some of the deepest areas in all of mathematics, both conceptually and in terms of technique.
 
-In the 20th century, algebraic geometry split into several subareas. 
+In the 20th century, algebraic geometry split into several subareas.
 
-- The mainstream of algebraic geometry is devoted to the study of the complex points of the algebraic varieties and more generally to the points with coordinates in an algebraically closed field. 
-- Real algebraic geometry is the study of the real points of an algebraic variety. 
-- Diophantine geometry and, more generally, arithmetic geometry is the study of the points of an algebraic variety with coordinates in fields that are not algebraically closed and occur in algebraic number theory, such as the field of rational numbers, number fields, finite fields, function fields, and p-adic fields. 
-- A large part of singularity theory is devoted to the singularities of algebraic varieties. 
-- Computational algebraic geometry is an area that has emerged at the intersection of algebraic geometry and computer algebra, with the rise of computers. It consists mainly of algorithm design and software development for the study of properties of explicitly given algebraic varieties. 
+- The mainstream of algebraic geometry is devoted to the study of the complex points of the algebraic varieties and more generally to the points with coordinates in an algebraically closed field.
+- Real algebraic geometry is the study of the real points of an algebraic variety.
+- Diophantine geometry and, more generally, arithmetic geometry is the study of the points of an algebraic variety with coordinates in fields that are not algebraically closed and occur in algebraic number theory, such as the field of rational numbers, number fields, finite fields, function fields, and p-adic fields.
+- A large part of singularity theory is devoted to the singularities of algebraic varieties.
+- Computational algebraic geometry is an area that has emerged at the intersection of algebraic geometry and computer algebra, with the rise of computers. It consists mainly of algorithm design and software development for the study of properties of explicitly given algebraic varieties.
 
-Much of the development of the mainstream of algebraic geometry in the 20th century occurred within an abstract algebraic framework, with increasing emphasis being placed on "intrinsic" properties of algebraic varieties not dependent on any particular way of embedding the variety in an ambient coordinate space; this parallels developments in topology, differential and complex geometry. One key achievement of this abstract algebraic geometry is Grothendieck's scheme theory which allows one to use sheaf theory to study algebraic varieties in a way which is very similar to its use in the study of differential and analytic manifolds. This is obtained by extending the notion of point: In classical algebraic geometry, a point of an affine variety may be identified, through Hilbert's Nullstellensatz, with a maximal ideal of the coordinate ring, while the points of the corresponding affine scheme are all prime ideals of this ring. This means that a point of such a scheme may be either a usual point or a subvariety. This approach also enables a unification of the language and the tools of classical algebraic geometry, mainly concerned with complex points, and of algebraic number theory. Wiles' proof of the longstanding conjecture called Fermat's last theorem is an example of the power of this approach. 
+Much of the development of the mainstream of algebraic geometry in the 20th century occurred within an abstract algebraic framework, with increasing emphasis being placed on "intrinsic" properties of algebraic varieties not dependent on any particular way of embedding the variety in an ambient coordinate space; this parallels developments in topology, differential and complex geometry. One key achievement of this abstract algebraic geometry is Grothendieck's scheme theory which allows one to use sheaf theory to study algebraic varieties in a way which is very similar to its use in the study of differential and analytic manifolds. This is obtained by extending the notion of point: In classical algebraic geometry, a point of an affine variety may be identified, through Hilbert's Nullstellensatz, with a maximal ideal of the coordinate ring, while the points of the corresponding affine scheme are all prime ideals of this ring. This means that a point of such a scheme may be either a usual point or a subvariety. This approach also enables a unification of the language and the tools of classical algebraic geometry, mainly concerned with complex points, and of algebraic number theory. Wiles' proof of the longstanding conjecture called Fermat's last theorem is an example of the power of this approach.
 
 ### Mes idées sur la géométrie algébrique (In French)
 
@@ -53,7 +53,6 @@ Avant d'apprendre la géométrie algébrique **(Les chapitres inclus sont: espac
   - **Le projet Stacks.**
   - **Et ainsi de suite...**
 
-- (Très bien, c'est tout ce à quoi je peux penser pour l'instant, et j'en ajouterai d'autres plus tard quand j'aurai de nouvelles idées.) 
+- (Très bien, c'est tout ce à quoi je peux penser pour l'instant, et j'en ajouterai d'autres plus tard quand j'aurai de nouvelles idées.)
 
-Here are some [notes](/PDFs/AG.pdf) I made on algebraic geometry. 
-
+Here are some [notes](/PDFs/AG.pdf) I made on algebraic geometry.

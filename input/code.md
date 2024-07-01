@@ -4,11 +4,11 @@ title: plz learn code
 permalink: /code/
 ---
 
-The computer is one of the greatest inventions in the world (At least I think so). In layman's terms, the operation of the computer is inseparable from the program, and the program is like an instruction to the computer. The computer will follow your instructions (i.e. the program runs). Coding is nothing more than the process of writing various instructions. 
+The computer is one of the greatest inventions in the world (At least I think so). In layman's terms, the operation of the computer is inseparable from the program, and the program is like an instruction to the computer. The computer will follow your instructions (i.e. the program runs). Coding is nothing more than the process of writing various instructions.
 
 - If you found my website, you are presumably someone who likes learning and thinking. If you are such a person, and you don't know how to code, here is my advice for you: **sit down and learn it**.
 - Seriously, learn to code. Learn. To. Code. Learn to code god-damn it!
-- 
+-
 
 ### File systems: Concepts for beginners
 
